@@ -1,0 +1,207 @@
+.html, body{
+             margin: 0;
+             background-color: #F2F2F2;
+              overflow-x: hidden; 
+             
+}
+#img_fundo{
+            background: url(IMAGENS/imagem\ de\ fundo.png);
+            height: 60%;
+            text-align: right;
+            background-image: cover;
+            background-size: auto;
+}
+#titulo{
+  font-size: 30px;
+  color: black;
+  font-family: 'Lucida Bright';
+  padding-top: 10%;
+  border-bottom: solid 2px black ;
+  line-height: ;
+  padding-right: 10%;
+  
+  
+  
+}
+      #subtitulo{
+      font-size: 25px;
+        color: black;
+        font-family: 'Times New Roman';
+        padding-top: 1%;
+        padding-left: ;
+        padding-right: ;
+        padding-right: 5%;
+}
+#acao{
+  padding-top: 3%;
+  color: white;
+  border: solid 1px white;
+  padding: 10px 10px 10px 10px;
+  font-size: 17px;
+  
+}
+#projeto{
+  font-size: 18px;
+  color: black;
+  padding-right: 50%;
+  font-family: sans-serif;
+  
+  padding-left: 3%; 
+}
+#selecao{
+  font-size: 18px;
+  color: black;
+  padding-right: 10%;
+  font-family: sans-serif;
+  padding-left: 1%; 
+  
+ 
+ 
+}
+.icone{
+  width: 600px;
+  padding-left: 0,3%; 
+}
+.section{
+  padding: 20px;
+  float: left;
+}
+
+
+
+.hearder2 {
+  background-color:#ffff;
+  width:1000px;
+  margin: 0 auto;
+  padding: 16px;
+  
+}
+
+.menu ul li{
+  display: inline-block;
+  color: #656464;
+  margin-left: 15px; 
+  height: 20px;
+  
+  
+  
+
+ 
+}
+.menu ul li:hover {
+  border-bottom: 3px solid white;
+  
+
+  
+}
+.menu ul li a:hover{
+  color: white;
+  
+ 
+}
+.menu ul li a{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family:  'Arial Narrow'  ; 
+  
+  
+}
+.menu{
+  text-align: right;
+  background-color: f7845d;
+  padding-top: 1%;
+  border-bottom: solid 1px black;
+  padding-right: 40%;
+ 
+}
+#exclusao{
+
+}
+.favela{
+  width: 600px;
+  padding-left: 0,5%; 
+
+}
+.desenvolvimento{
+  width: 600px;
+  padding-left: 0,5%; 
+
+}
+ 
+.crianças{
+  width: 650px;
+  padding-left: 0,5%; 
+
+
+}
+
+.coluna{
+  float: left;
+  padding: 0 5%;
+  position: relative;
+width: 60%;
+ padding-right: 50%;
+ padding-left: 0%;
+}
+
+.exclusao{
+  padding-left: 50%;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.eco{
+
+  
+  float: left;
+  padding: 0 1%;
+  position: relative;
+width: 30%;
+ padding-right: 14%;
+ padding-left: 3%;
+ font-size: 18px;
+ font-family: sans-serif;
+  
+  
+}
+.conclusao{
+  padding-left: 55%;
+  font-size: 18px;
+  font-family: sans-serif;
+  width: 45%;
+  height: 70%;
+  text-align: left;
+  width: 40%;
+ 
+ 
+  
+   }
+   .emicida{
+   padding-top: 13%;
+   padding-bottom: 8%;
+
+   }
+  .muro{
+   float: left;
+   padding-left: 10%;
+   padding-right: 20%;
+   width: 80%;
+   
+
+  }
+  .eu{
+    font-size: 25px;
+    font-family: Georgia, Times;
+    text-align: center;
+    color: white;
+  }
+.tu{
+  background-color: tomato;
+  border: black solid 2px;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  
+
+}
