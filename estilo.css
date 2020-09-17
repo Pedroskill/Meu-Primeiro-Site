@@ -5,7 +5,7 @@
              
 }
 #img_fundo{
-            background: url(fundo.png);
+            background: url(IMAGENS/fundo.png);
             height: 60%;
             text-align: right;
             background-image: cover;
@@ -59,8 +59,9 @@
  
 }
 .icone{
-  width: 600px;
+  width: 422px;
   padding-left: 0,3%; 
+
 }
 .section{
   padding: 20px;
@@ -125,7 +126,7 @@
 
 }
 .desenvolvimento{
-  width: 600px;
+  width: 440px;;
   padding-left: 0,5%; 
 
 }
@@ -204,4 +205,11 @@ width: 30%;
   padding-bottom: 10%;
   
 
+}
+.subtitulo{
+  text-align: center;
+}
+
+p{
+  text-align: justify;
 }
